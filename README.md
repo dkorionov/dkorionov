@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dmitriy Korionov, developer from Ukrain
-- In general i work with python WEB/ML
+- 👀 In general i work with python WEB/ML
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me ... 1. @root_ofc(telegram), 2. koriond98@gmail.com
 
